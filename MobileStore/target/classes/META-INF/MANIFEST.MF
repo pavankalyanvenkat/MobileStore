@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: tvenk
+Build-Jdk: 21.0.1
+Implementation-Title: MobileStore
+Implementation-Version: 2.1.3.RELEASE
+Implementation-Vendor-Id: Pavan
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
